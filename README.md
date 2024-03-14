@@ -31,7 +31,7 @@
 На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 ## Ответ:
  ![alt text](https://github.com/ChusovitinEduard/DR/blob/main/1.JPG)
- ![ссылка на hsrp_advanced.pkt]((https://github.com/ChusovitinEduard/DR/blob/main/hsrp_advanced.pkt)
+ ![ссылка на hsrp_advanced.pkt](https://github.com/ChusovitinEduard/DR/blob/main/hsrp_advanced.pkt)
 
 
 
