@@ -45,10 +45,12 @@
 
 ## Ответ:
 Nginx остановлен
- ![alt text](https://github.com/ChusovitinEduard/DR/blob/main/NGINX_stop.JPG)
+
+ ![alt text](https://github.com/ChusovitinEduard/DR/blob/main/NGINX_stop.PNG)
  
  Nginx запущен
-  ![alt text](https://github.com/ChusovitinEduard/DR/blob/main/NGINX_start.JPG)
+ 
+  ![alt text](https://github.com/ChusovitinEduard/DR/blob/main/NGINX_start.PNG)
   
   Скрипт:
  
